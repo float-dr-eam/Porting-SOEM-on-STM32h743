@@ -124,7 +124,7 @@
   主站核心逻辑：主站初始化、从站扫描、PDO/SDO 基础流程等关键能力。
 
 - **`soem/ethercatbase.c` / `soem/ethercatbase.h`**  
-  EtherCAT 基础报���与底层命令封装。
+  EtherCAT 基础报文与底层命令封装。
 
 - **`soem/ethercatconfig.c` / `soem/ethercatconfig.h` / `soem/ethercatconfiglist.h`**  
   从站配置、拓扑与配置表相关逻辑。
